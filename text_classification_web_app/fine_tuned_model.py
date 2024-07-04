@@ -5,7 +5,7 @@ import os
 import pandas as pd
 
 # Set the Hugging Face token as an environment variable
-HUGGINGFACE_TOKEN = "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"
+HUGGINGFACE_TOKEN = "enter_your_huggingface_token_here"
 os.environ["HUGGINGFACE_TOKEN"] = HUGGINGFACE_TOKEN
 
 # Load the tokenizer and model
